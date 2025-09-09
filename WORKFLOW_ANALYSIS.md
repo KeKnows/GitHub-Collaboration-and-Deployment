@@ -3,7 +3,7 @@
   #It runs when code is pushed to the main branch.
   
 #B. What are the four main steps this workflow performs? (List each step name)
-  #Checkout code, Set up environment, Build Project, Deploy Application
+  #The four main steps this workout performs are: Checkout code, Set up environment, Build Project, Deploy Application
   
 #C. What does the "Checkout code" step do and why is it necessary?
   #The checkout code step uses the actions/checkout action to pull the repository's contents into the workflow runner. 
